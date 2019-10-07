@@ -1,0 +1,18 @@
+﻿'C++.exe'(Win32): 'C:\Users\wallm\source\repos\C++\Debug\C++.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\ntdll.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\kernel32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\KernelBase.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\msvcp140d.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbased.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\msvcrt.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\rpcrt4.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\sspicli.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\cryptbase.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'C++.exe'(Win32): 'C:\Windows\SysWOW64\sechost.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+0x84a8 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x5450 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x845c 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[30800] C++.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).
